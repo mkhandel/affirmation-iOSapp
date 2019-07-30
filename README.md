@@ -1,2 +1,2 @@
 # affirmation-iOSapp
-Determines effectiveness of affirmations on user's mood.
+An iOS app that determines effectiveness of affirmations on user's mood.
